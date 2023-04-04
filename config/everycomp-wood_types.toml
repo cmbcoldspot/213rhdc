@@ -1,0 +1,126 @@
+
+[types]
+
+	[types.wood_type]
+
+		[types.wood_type.ars_nouveau]
+			archwood = true
+
+		[types.wood_type.nethers_exoticism]
+			jabuticaba = true
+			ramboutan = true
+
+		[types.wood_type.deeperdarker]
+			echo = true
+
+	[types.leaves_type]
+
+		[types.leaves_type.ars_nouveau]
+			blue_archwood = true
+			green_archwood = true
+			purple_archwood = true
+			red_archwood = true
+
+		[types.leaves_type.ars_elemental]
+			yellow_archwood = true
+
+		[types.leaves_type.nethers_exoticism]
+			jaboticaba = true
+
+		[types.leaves_type.deeperdarker]
+			echo = true
+
+[entries]
+
+	[entries.wood_type]
+
+		[entries.wood_type.mcwdoors]
+			nether_door = true
+			stable_head_door = true
+			japanese2_door = true
+			tropical_door = true
+			barn_glass_door = true
+			cottage_door = true
+			four_panel_door = true
+			western_door = true
+			paper_door = true
+			swamp_door = true
+			glass_door = true
+			beach_door = true
+			barn_door = true
+			mystic_door = true
+			japanese_door = true
+			bark_glass_door = true
+			classic_door = true
+			stable_door = true
+			modern_door = true
+
+		[entries.wood_type.buildersaddition]
+			counter_blackstone = true
+			bookshelf = true
+			cupboard = true
+			arcade = true
+			counter_deepslate = true
+			bench = true
+			chair = true
+			table = true
+			counter_granite = true
+			bedside_table = true
+			small_cupboard = true
+			counter_diorite = true
+			shelf = true
+			counter_andesite = true
+			support_bracket = true
+			cabinet = true
+			stool = true
+
+		[entries.wood_type.mcwwindows]
+			plank_window = true
+			louvered_shutter = true
+			plank_window2 = true
+			plank_four_window = true
+			stripped_log_window2 = true
+			log_parapet = true
+			window2 = true
+			stripped_log_four_window = true
+			four_window = true
+			blinds = true
+			plank_parapet = true
+			window = true
+			shutter = true
+			stripped_log_window = true
+
+		[entries.wood_type.decorative_blocks]
+			beam = true
+			support = true
+			seat = true
+			palisade = true
+
+		[entries.wood_type.mcwfences]
+			highley_gate = true
+			picket_fence = true
+			horse_fence = true
+			pyramid_gate = true
+			stockade_fence = true
+			wired_fence = true
+
+		[entries.wood_type.mcwbridges]
+			bridge_pier = true
+			rope_bridge_stair = true
+			log_bridge_stair = true
+			rail_bridge = true
+			rope_bridge = true
+			log_bridge_middle = true
+
+		[entries.wood_type.create]
+			window_pane = true
+			window = true
+
+		[entries.wood_type.farmersdelight]
+			cabinet = true
+
+	[entries.leaves_type]
+
+		[entries.leaves_type.buildersaddition]
+			hedge = true
+
