@@ -35,7 +35,7 @@ renderWaypoints:true
 partialYTeleportation:true
 displayStainedGlass:true
 pacPlayers:true
-displayClaims:true
+displayClaims:false
 claimsFillOpacity:46
 claimsBorderOpacity:80
 globalVersion:1
